@@ -1,1 +1,2 @@
-- 👋 Serwas
+- 👋 Serwas 
+- Linux > Windows change my mind
