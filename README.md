@@ -1,2 +1,2 @@
-- 👋 Serwas 
+- Serwas 👋
 - Linux > Windows
